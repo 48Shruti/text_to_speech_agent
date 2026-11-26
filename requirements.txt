@@ -1,0 +1,6 @@
+sqlite3
+streamlit
+numpy
+sqlglot
+langchain_ollama
+pandas
